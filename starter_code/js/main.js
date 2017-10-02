@@ -26,6 +26,6 @@ function changeBackground(event) {
 } else if (userInput === 'sydney' || userInput === 'syd' || userInput === 'Sydney' || userInput === 'SYD') {
   $('body').addClass('sydney')
 }
-
+}
 // $('.jq_noSpaces').on('change', function(){
 //     $(this).val($(this).val().replace(/\s+/g,""))}
